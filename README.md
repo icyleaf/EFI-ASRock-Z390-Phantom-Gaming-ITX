@@ -42,7 +42,6 @@
 ### 无法使用
 
 - 雷电 3 口
-- 显示器 DisplayPort 的声卡输出不识别
 
 ## EFI
 
@@ -63,12 +62,11 @@
         - WhateverGreen.kext
     - 声卡
         - AppleALC.kext
-        - VoodooHDA.kext
     - 有线网卡
         - IntelMausiEthernet.kext
     - 无线网卡
         - AirportBrcmFixup.kext
-    - 蓝牙
+    - 蓝牙(配合 Kext Utility/KextBeast 安装到系统)
         - BrcmFirmwareRepo.kext
         - BrcmPatchRAM2.kext
 
