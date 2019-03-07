@@ -30,7 +30,7 @@
     - [x] 耳机
     - [x] Trackpad 2
     - [x] Airdrop
-    - [ ] Handoff
+    - [x] Handoff
 
 ### 可以使用但不完美
 
