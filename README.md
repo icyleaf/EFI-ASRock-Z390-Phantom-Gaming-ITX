@@ -22,7 +22,7 @@
 ### 完美
 
 - [x] Intel UHD630 核显（DisplayPort 接显示器）
-- [x] 声卡
+- [x] 声卡(Realtek ALC1220)
 - [x] 睡眠/唤醒
 - [x] 无线 WiFi
 - [x] 蓝牙
