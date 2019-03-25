@@ -11,7 +11,7 @@
 | SSD | 三星 970 EVO 250G |  |
 | 机箱 | 追风者 215P ITX 侧透 RGB |  |
 | 电源 | 讯景 XTR550 |  |
-| 显卡 | RX560\~580 | 预算超了暂时没有采购，不建议买讯景（自改 BIOS） |
+| 显卡 | 蓝宝石 RX580 8G 1411MHz Nitro+ 超白金 | 矿卡 |
 | 无线网卡/蓝牙 | 博通 BCM94360CS2 | |
 | 显示器 | LG 27UL600 4k HDR400 IPS | |
 
@@ -21,7 +21,9 @@
 
 ### 完美
 
-- [x] Intel UHD630 核显（DisplayPort 接显示器）
+- [x] 显卡（DisplayPort 接显示器）
+    - [x] Intel UHD630 核显
+    - [x] AMD RX580
 - [x] 声卡(Realtek ALC1220)
     - [x] 主板后置
     - [x] 机箱前置
@@ -60,6 +62,8 @@
         - Lilu.kext
         - USBInjectAll.kext
         - WhateverGreen.kext
+    - 显卡
+        - NoVPAJpeg.kext（解决无法预览和打开 JPG 图片）
     - 声卡
         - AppleALC.kext
     - 有线网卡
