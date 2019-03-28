@@ -36,10 +36,7 @@
     - [x] Trackpad 2
     - [x] Airdrop
     - [x] Handoff
-
-### 可以使用但不完美
-
-- USB 插口（机箱前置两个不可用）
+- [x] 所有 USB 插口
 
 ### 无法使用
 
@@ -60,10 +57,9 @@
     - 启动必备
         - FakeSMC.kext
         - Lilu.kext
-        - USBInjectAll.kext
         - WhateverGreen.kext
     - 显卡
-        - NoVPAJpeg.kext（解决无法预览和打开 JPG 图片）
+        - NoVPAJpeg.kext（解决独立显卡无法预览和打开 JPG 图片）
     - 声卡
         - AppleALC.kext
     - 有线网卡
@@ -75,6 +71,15 @@
         - BrcmPatchRAM2.kext
 
 ## 安装教程
+
+### 前期准备
+
+开机 F2 进入 BIOS 再按 F6 切换高级模式，至少需要做如下修改具体情况还需要看硬件情况：
+
+- 高级（Advanced） > 芯片配置（Chipset Configuration） > VT-d -> Disabled
+- 高级（Advanced） > USB 配置（USB Configuration） > XHCI Hand-off -> Enabled
+
+### 安装黑苹果
 
 > 正在整理中
 
