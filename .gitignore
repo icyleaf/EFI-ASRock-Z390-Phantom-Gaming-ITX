@@ -3,6 +3,7 @@
 /.TemporaryItems/
 /.metadata_never_index
 nvram.plist
+vendors/
 
 /EFI/APPLE/
 /EFI/*.txt
@@ -17,4 +18,4 @@ nvram.plist
 ._*.aml
 ._*.dsl
 ._*.efi
-._*.kext
+._*.kextvendors
