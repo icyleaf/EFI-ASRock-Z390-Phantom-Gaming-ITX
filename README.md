@@ -81,7 +81,7 @@
 
 ### 安装黑苹果
 
-> 正在整理中
+请移步至[华擎 Z390 Gaming ITX 黑苹果安装教程](http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/)
 
 ## 相同主板 EFI
 
