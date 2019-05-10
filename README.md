@@ -12,8 +12,8 @@
 | 机箱 | 追风者 215P ITX 侧透 RGB |  |
 | 电源 | 讯景 XTR550 |  |
 | 显卡 | 蓝宝石 RX580 8G 1411MHz Nitro+ 超白金 | 矿卡 |
-| 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡 |
-| 显示器 | LG 27UL600 4k HDR400 IPS | 替换主板原有模块 M.2 Key E 口  |
+| 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡[替换主板原有模块 M.2 Key E 口](http://icyleaf.com/images/install-boardcom-module-to-motherboard.jpg) |
+| 显示器 | LG 27UL600 4k HDR400 IPS | DisplayPort 接入 |
 
 更多说明请看[攒了一台 4K 视频剪辑黑苹果](http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/)。
 
@@ -81,7 +81,7 @@
 
 ### 安装黑苹果
 
-> 正在整理中
+请移步至[华擎 Z390 Gaming ITX 黑苹果安装教程](http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/)
 
 ## 相同主板 EFI
 
