@@ -62,7 +62,7 @@
         - Lilu.kext
         - WhateverGreen.kext
     - 显卡
-        - NoVPAJpeg.kext (解决 AMD 独立显卡无法预览和打开 JPG 图片，macOS 10.14.5 之后 AMD 支持 HEVC 可不用)
+        - NoVPAJpeg.kext (解决 AMD 独立显卡无法预览和打开 JPG 图片，[macOS 10.14.5 之后 AMD 支持 HEVC 可不用](https://www.reddit.com/r/hackintosh/comments/bo6rie/whats_new_in_macos_10145/))
     - 声卡
         - AppleALC.kext
     - 有线网卡
