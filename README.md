@@ -21,6 +21,9 @@
 
 ### 完美
 
+- [x] macOS 版本
+    - [x] 10.14.3
+    - [x] 10.14.5
 - [x] 显卡（DisplayPort 接显示器）
     - [x] Intel UHD630 核显
     - [x] AMD RX580
@@ -40,11 +43,11 @@
 
 ### 无法使用
 
-- 雷电 3 口
+- 雷电 3 口（type-c 接口）
 
 ## EFI
 
-- Clover r4871
+- Clover r4930
 - ACPI
     - patched
         - SSDT-UIAC-ALL.aml
@@ -59,7 +62,7 @@
         - Lilu.kext
         - WhateverGreen.kext
     - 显卡
-        - NoVPAJpeg.kext（解决独立显卡无法预览和打开 JPG 图片）
+        - NoVPAJpeg.kext (解决 AMD 独立显卡无法预览和打开 JPG 图片，macOS 10.14.5 之后 AMD 支持 HEVC 可不用)
     - 声卡
         - AppleALC.kext
     - 有线网卡
