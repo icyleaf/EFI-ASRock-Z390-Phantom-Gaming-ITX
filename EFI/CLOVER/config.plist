@@ -133,7 +133,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>1</integer>
+			<integer>7</integer>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
@@ -159,6 +159,8 @@
 			<key>Tool</key>
 			<true/>
 		</dict>
+		<key>Theme</key>
+		<string>embedded</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
