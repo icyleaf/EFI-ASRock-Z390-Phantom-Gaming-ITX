@@ -120,7 +120,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 debug=0x100 shikigva=40 darkwake=3 keepsyms=1 slide=0 -v</string>
+		<string>dart=0 debug=0x100 shikigva=40 darkwake=3 keepsyms=1 slide=0 shikigva=32 shiki-id=Mac-7BA5B2D9E42DDD94 -v</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Timeout</key>
