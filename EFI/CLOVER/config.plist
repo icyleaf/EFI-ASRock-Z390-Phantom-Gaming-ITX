@@ -287,16 +287,18 @@
 		<key>CsrActiveConfig</key>
 		<string>0x3E7</string>
 		<key>MLB</key>
-		<string>C02716101CDJ0DXAD</string>
+		<string>C027294044NJG36CB</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BoardSerialNumber</key>
-		<string>C02716101CDJ0DXAD</string>
+		<string>C027294044NJG36CB</string>
+		<key>Mobile</key>
+		<false/>
 		<key>ProductName</key>
-		<string>iMac18,1</string>
+		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
 		<string>FIX ME</string>
 		<key>SmUUID</key>
