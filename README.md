@@ -47,15 +47,16 @@
 
 ## EFI
 
-- Clover r4930
+- Clover r5078
 - ACPI
     - patched
         - SSDT-UIAC-ALL.aml
-- drivers64UEFI
-    - ApfsDriverLoader-64.efi
-    - AptioMemoryFix-64.efi
-    - EmuVariableUefi-64.efi
-    - FSInject-64.efi
+- drivers
+    - UEFI
+        - ApfsDriverLoader.efi
+        - AptioMemoryFix.efi
+        - EmuVariableUefi.efi
+        - FSInject.efi
 - Kexts
     - 启动必备
         - FakeSMC.kext
