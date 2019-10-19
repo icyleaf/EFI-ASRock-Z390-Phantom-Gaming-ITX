@@ -120,11 +120,11 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 debug=0x100 shikigva=40 darkwake=3 keepsyms=1 slide=0 shikigva=32 shiki-id=Mac-7BA5B2D9E42DDD94 -v</string>
+		<string>-v dart=0 debug=0x100 darkwake=3 keepsyms=1 slide=0</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Timeout</key>
-		<integer>10</integer>
+		<integer>3</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -160,7 +160,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>embedded</string>
+		<string>Catalina</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
