@@ -1,4 +1,4 @@
-# Mini ITX 4k 视频剪辑黑苹果 macOS 10.14 Mojave EFI
+# Mini ITX 4k 视频剪辑黑苹果 macOS 10.15 Catalina EFI
 
 ## 装机清单
 
@@ -22,8 +22,8 @@
 ### 完美
 
 - [x] macOS 版本
-    - [x] 10.14.3
-    - [x] 10.14.5
+    - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支)
+    - [x] 10.15
 - [x] 显卡（DisplayPort 接显示器）
     - [x] Intel UHD630 核显
     - [x] AMD RX580
@@ -41,9 +41,9 @@
     - [x] Handoff
 - [x] 所有 USB 插口
 
-### 无法使用
+### 可用不完美
 
-- 雷电 3 口（type-c 接口）
+- 雷电 3 口（可充电无数据）
 
 ## EFI
 
@@ -54,23 +54,20 @@
 - drivers
     - UEFI
         - ApfsDriverLoader.efi
-        - AptioMemoryFix.efi
         - EmuVariableUefi.efi
         - FSInject.efi
 - Kexts
-    - 启动必备
+    - 启动必备 (配合 Kext Utility/KextBeast 安装到系统)
         - FakeSMC.kext
         - Lilu.kext
         - WhateverGreen.kext
-    - 显卡
-        - NoVPAJpeg.kext (解决 AMD 独立显卡无法预览和打开 JPG 图片，[macOS 10.14.5 之后 AMD 支持 HEVC 可不用](https://www.reddit.com/r/hackintosh/comments/bo6rie/whats_new_in_macos_10145/))
     - 声卡
         - AppleALC.kext
     - 有线网卡
         - IntelMausiEthernet.kext
-    - 无线网卡
+    - 无线网卡 (配合 Kext Utility/KextBeast 安装到系统)
         - AirportBrcmFixup.kext
-    - 蓝牙(配合 Kext Utility/KextBeast 安装到系统)
+    - 蓝牙 (配合 Kext Utility/KextBeast 安装到系统)
         - BrcmFirmwareRepo.kext
         - BrcmPatchRAM2.kext
 
