@@ -10,7 +10,7 @@ Geekbench 4: [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) |
 | 主板 | 华擎 Z390 Phantom Gaming itx/ac |  |
 | 散热器 | 九州风神 船长 240 EX White RGB |  |
 | 内存 | 海盗船 Vengeance LPX DDR4 3000 16G x 1 |  |
-| SSD | 三星 970 EVO 250G |  |
+| 硬盘 | 三星 970 EVO 250G<br />西数 Black SN750 1T<br />东芝 DT01ACA300 3T | 双 SSD + 一 HDD |
 | 机箱 | 追风者 215P ITX 侧透 RGB |  |
 | 电源 | 讯景 XTR550 |  |
 | 显卡 | 蓝宝石 RX580 8G 1411MHz Nitro+ 超白金 | 矿卡 |
