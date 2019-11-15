@@ -49,6 +49,10 @@ Geekbench 4: [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) |
 
 - 雷电 3 口（可充电无数据）
 
+### 未知
+
+- [ ] Sidecar (没有设备可以测试）
+
 ## EFI
 
 - Clover r5078
