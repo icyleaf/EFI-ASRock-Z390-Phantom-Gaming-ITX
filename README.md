@@ -21,7 +21,7 @@
 
 ### 完美
 
-- [x] BIOS
+- [x] BIOS 版本
     - [x] 1.5
 - [x] macOS 版本
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支)
