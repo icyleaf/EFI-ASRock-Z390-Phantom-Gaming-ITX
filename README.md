@@ -91,3 +91,9 @@
 - https://github.com/bydavy/EFI-ASRock-Z390-Phantom-Gaming
 - https://github.com/kcunanan/Jared-PC/
 - https://github.com/befuture/EFI-ASRock-Z390-Phantom-Gaming
+
+## 教科书版黑苹果教程
+
+- https://www.tonymacx86.com/threads/guide-asrock-z390-phantom-gaming-itx-ac-i9-9900k-rx-580.268992/
+- https://www.tonymacx86.com/threads/success-asrock-z390-phantom-gaming-itx-tb3-igpu-mojave-sff-build.277418/
+- https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/
