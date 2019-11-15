@@ -1,5 +1,7 @@
 # Mini ITX 4k 视频剪辑黑苹果 macOS 10.15 Catalina EFI
 
+Geekbench 4: [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | [OpenCL 独显测试报告](https://browser.geekbench.com/v4/compute/4634600)
+
 ## 装机清单
 
 | 名称 | 品牌型号 | 备注 |
