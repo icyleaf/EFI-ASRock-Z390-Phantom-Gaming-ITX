@@ -1,6 +1,6 @@
 # Mini ITX 4k 视频剪辑黑苹果 macOS 10.15 Catalina EFI
 
-Geekbench 4: [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | [OpenCL 独显测试报告](https://browser.geekbench.com/v4/compute/4634600)
+Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | [OpenCL 独显测试报告](https://browser.geekbench.com/v4/compute/4634600)
 
 ## 装机清单
 
@@ -26,8 +26,9 @@ Geekbench 4: [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) |
 - [x] BIOS 版本
     - [x] 1.5
 - [x] macOS 版本
+    - [x] 10.15.1
+    - [x] [10.15](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.15)
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支)
-    - [x] 10.15
 - [x] 显卡（DisplayPort 接显示器）
     - [x] Intel UHD630 核显
     - [x] AMD RX580
