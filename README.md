@@ -32,6 +32,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] 显卡（DisplayPort 接显示器）
     - [x] Intel UHD630 核显
     - [x] AMD RX580
+    - [x] AMD RX5700 XT [#30](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/30)
 - [x] 声卡(Realtek ALC1220)
     - [x] 主板后置
     - [x] 机箱前置
