@@ -32,6 +32,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] 显卡（DisplayPort 接显示器）
     - [x] Intel UHD630 核显
     - [x] AMD RX580
+    - [x] AMD RX5700 XT [#30](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/30)
 - [x] 声卡(Realtek ALC1220)
     - [x] 主板后置
     - [x] 机箱前置
@@ -52,7 +53,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 
 ### 未知
 
-- [ ] Sidecar (没有设备可以测试）
+- [ ] Sidecar (没有设备可以测试，[@KisCG 贡献开启方法](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32))
 
 ## EFI
 
@@ -104,6 +105,14 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 #### 10.14 升级 10.15
 
 详情查看[#16](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/16)
+
+## 问题索引
+
+- [tutorial](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/tutorial): 分享和教程
+- [success](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/success): 成功解决问题或成功案例
+- [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/clover): Clover 配置
+- [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/memory%20card): 内存相关
+- [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/graphics%20card): 显卡相关
 
 ## 相同主板 EFI
 
