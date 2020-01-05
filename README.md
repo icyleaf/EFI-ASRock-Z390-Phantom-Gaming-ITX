@@ -26,6 +26,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] BIOS 版本
     - [x] 1.5
 - [x] macOS 版本
+    - [x] 10.15.2
     - [x] 10.15.1
     - [x] [10.15](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.15)
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支)
