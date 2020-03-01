@@ -33,7 +33,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支)
 - [x] 显卡
     - [x] 单 4k 显示器（DisplayPort）
-    - [x] 双 4k 显示器（双 DisplayPort）
+    - [x] [双 4k 显示器](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36)（双 DisplayPort）
     - [x] Intel UHD630 核显
     - [x] AMD RX580
     - [x] AMD RX5700 XT [#30](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/30)
