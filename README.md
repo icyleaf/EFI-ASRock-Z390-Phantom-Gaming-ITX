@@ -26,6 +26,8 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] BIOS 版本
     - [x] 1.5
 - [x] macOS 版本
+    - [x] [10.15.5](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/47)
+    - [x] [10.15.4](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/41) - 问题：LG 显示器会自动开启 HDR
     - [x] [10.15.3](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/34)
     - [x] [10.15.2](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/33)
     - [x] [10.15.1](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/23)
