@@ -99,23 +99,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 
 ### 升级 macOS 系统
 
-争取尽我可能把升级步骤和注意事项记录下来提供给使用我的 EFI 的小伙伴们，如果如下没有罗列到升级的请看看 [upgrade](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Aupgrade) 标签的 Issues 有没有。
-
-#### 10.15.2 升级 10.15.3
-
-详情查看[#34](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/34)
-
-#### 10.15.1 升级 10.15.2
-
-详情查看[#33](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/33)
-
-#### 10.15 升级 10.15.1
-
-详情查看[#23](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/23)
-
-#### 10.14 升级 10.15
-
-详情查看[#16](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/16)
+争取尽我可能把升级步骤和注意事项记录下来提供给使用我的 EFI 的小伙伴们，请移步到 [upgrade](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Aupgrade) 标签查看所有升级说明。
 
 ## 问题索引
 
