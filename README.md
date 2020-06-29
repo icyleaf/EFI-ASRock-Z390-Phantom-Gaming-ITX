@@ -15,7 +15,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 | 电源 | 讯景 XTR550 |  |
 | 显卡 | 蓝宝石 RX580 8G 1411MHz Nitro+ 超白金 | 矿卡 |
 | 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡[替换主板原有模块 M.2 Key E 口](http://icyleaf.com/images/install-boardcom-module-to-motherboard.jpg) |
-| 显示器 | LG 27UL600 4k HDR400 IPS | DisplayPort 接入 |
+| 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)DisplayPort 接入 |
 
 更多说明请看[攒了一台 4K 视频剪辑黑苹果](http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/)。
 
@@ -27,7 +27,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
     - [x] 1.5
 - [x] macOS 版本
     - [x] [10.15.5](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/47)
-    - [x] [10.15.4](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/41) - 问题：LG 显示器会自动开启 HDR
+    - [x] [10.15.4](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/41)
     - [x] [10.15.3](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/34)
     - [x] [10.15.2](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/33)
     - [x] [10.15.1](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/23)
