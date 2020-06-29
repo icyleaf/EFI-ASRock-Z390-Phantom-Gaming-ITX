@@ -9,13 +9,13 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 | CPU | 英特尔 i7 9700k |  |
 | 主板 | 华擎 Z390 Phantom Gaming itx/ac |  |
 | 散热器 | 九州风神 船长 240 EX White RGB |  |
-| 内存 | 海盗船 Vengeance LPX DDR4 3000 16G x 1 |  |
+| 内存 | 海盗船 Vengeance LPX DDR4 3000 16G x 2 |  |
 | 硬盘 | 三星 970 EVO 250G<br />西数 Black SN750 1T<br />东芝 DT01ACA300 3T | 双 SSD + 一 HDD |
 | 机箱 | 追风者 215P ITX 侧透 RGB |  |
 | 电源 | 讯景 XTR550 |  |
 | 显卡 | 蓝宝石 RX580 8G 1411MHz Nitro+ 超白金 | 矿卡 |
 | 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡[替换主板原有模块 M.2 Key E 口](http://icyleaf.com/images/install-boardcom-module-to-motherboard.jpg) |
-| 显示器 | LG 27UL600 4k HDR400 IPS | DisplayPort 接入 |
+| 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)DisplayPort 接入 |
 
 更多说明请看[攒了一台 4K 视频剪辑黑苹果](http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/)。
 
@@ -27,7 +27,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
     - [x] 1.5
 - [x] macOS 版本
     - [x] [10.15.5](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/47)
-    - [x] [10.15.4](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/41) - 问题：LG 显示器会自动开启 HDR
+    - [x] [10.15.4](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/41)
     - [x] [10.15.3](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/34)
     - [x] [10.15.2](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/33)
     - [x] [10.15.1](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/23)
@@ -53,13 +53,10 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
     - [x] Handoff
 - [x] 所有 USB 插口
 
-### 可用不完美
+### 完美未验证
 
-- 雷电 3 口（可充电无数据）
-
-### 未知
-
-- [ ] Sidecar (没有设备可以测试，[@KisCG 贡献开启方法](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32))
+- [x] 雷电 3 Type-C [#43](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/43)
+- [x] 随航 Sidecar [#32](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32)
 
 ## EFI
 
@@ -102,23 +99,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 
 ### 升级 macOS 系统
 
-争取尽我可能把升级步骤和注意事项记录下来提供给使用我的 EFI 的小伙伴们，如果如下没有罗列到升级的请看看 [upgrade](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Aupgrade) 标签的 Issues 有没有。
-
-#### 10.15.2 升级 10.15.3
-
-详情查看[#34](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/34)
-
-#### 10.15.1 升级 10.15.2
-
-详情查看[#33](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/33)
-
-#### 10.15 升级 10.15.1
-
-详情查看[#23](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/23)
-
-#### 10.14 升级 10.15
-
-详情查看[#16](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/16)
+争取尽我可能把升级步骤和注意事项记录下来提供给使用我的 EFI 的小伙伴们，请移步到 [upgrade](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Aupgrade) 标签查看所有升级说明。
 
 ## 问题索引
 
