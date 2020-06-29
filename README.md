@@ -53,13 +53,10 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
     - [x] Handoff
 - [x] 所有 USB 插口
 
-### 可用不完美
+### 完美未验证
 
-- 雷电 3 口（可充电无数据）
-
-### 未知
-
-- [ ] Sidecar (没有设备可以测试，[@KisCG 贡献开启方法](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32))
+- [x] 雷电 3 Type-C [#43](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/43)
+- [x] 随航 Sidecar [#32](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32)
 
 ## EFI
 
