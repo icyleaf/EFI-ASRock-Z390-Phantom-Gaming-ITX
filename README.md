@@ -71,7 +71,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
         - FSInject.efi
 - Kexts
     - 启动必备 (配合 Kext Utility/KextBeast 安装到系统)
-        - FakeSMC.kext
+        - VirtualSMC.kext (配合几个传感器和 [tools](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/master/tools) 目录的 HWMonitorSMC2 来监控硬件信息）
         - Lilu.kext
         - WhateverGreen.kext
     - 声卡
@@ -80,9 +80,6 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
         - IntelMausiEthernet.kext
     - 无线网卡 (配合 Kext Utility/KextBeast 安装到系统)
         - AirportBrcmFixup.kext
-    - 蓝牙 (配合 Kext Utility/KextBeast 安装到系统)
-        - BrcmFirmwareRepo.kext
-        - BrcmPatchRAM2.kext
 
 ## 安装教程
 
