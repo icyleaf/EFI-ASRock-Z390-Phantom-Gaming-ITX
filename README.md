@@ -59,10 +59,6 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] 雷电 3 Type-C [#43](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/43)
 - [x] 随航 Sidecar [#32](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32)
 
-## EFI 结构
-
-> TODO
-
 ## 安装教程
 
 ### 前期准备
