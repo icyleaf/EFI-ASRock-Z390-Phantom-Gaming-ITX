@@ -10,17 +10,18 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 | 主板 | 华擎 Z390 Phantom Gaming itx/ac |  |
 | 散热器 | 九州风神 船长 240 EX White RGB |  |
 | 内存 | 海盗船 Vengeance LPX DDR4 3000 16G x 2 |  |
-| 硬盘 | 三星 970 EVO 250G<br />西数 Black SN750 1T<br />东芝 DT01ACA300 3T | 双 SSD + 一 HDD |
-| 机箱 | 追风者 215P ITX 侧透 RGB |  |
-| 电源 | 讯景 XTR550 |  |
+| 硬盘 | 西数 Black SN750 1T<br />致钛 PC005 Active 1T<br />镁光 CT500MX 500G<br />东芝 DT01ACA300 3T | 三星 970 EVO 250G 使用佳翼 i9-GTR 做 U 盘 |
 | 显卡 | 蓝宝石 RX580 8G 1411MHz Nitro+ 超白金 | 矿卡 |
 | 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡[替换主板原有模块 M.2 Key E 口](http://icyleaf.com/images/install-boardcom-module-to-motherboard.jpg) |
 | 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)DisplayPort 接入 |
+| 机箱 | 追风者 215P ITX 侧透 RGB |  |
+| 电源 | 讯景 XTR550 |  |
 
 更多说明请看[攒了一台 4K 视频剪辑黑苹果](http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/)。
 
 ## 兼容情况
 
+从 2021 年 3 月 25 开始升级使用 OpenCore 方案。
 ### 完美
 
 - [x] BIOS 版本
@@ -58,31 +59,9 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] 雷电 3 Type-C [#43](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/43)
 - [x] 随航 Sidecar [#32](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32)
 
-## EFI
+## EFI 结构
 
-- Clover r5078
-- ACPI
-    - patched
-        - SSDT-UIAC-ALL.aml
-- drivers
-    - UEFI
-        - ApfsDriverLoader.efi
-        - EmuVariableUefi.efi
-        - FSInject.efi
-- Kexts
-    - 启动必备 (配合 Kext Utility/KextBeast 安装到系统)
-        - FakeSMC.kext
-        - Lilu.kext
-        - WhateverGreen.kext
-    - 声卡
-        - AppleALC.kext
-    - 有线网卡
-        - IntelMausiEthernet.kext
-    - 无线网卡 (配合 Kext Utility/KextBeast 安装到系统)
-        - AirportBrcmFixup.kext
-    - 蓝牙 (配合 Kext Utility/KextBeast 安装到系统)
-        - BrcmFirmwareRepo.kext
-        - BrcmPatchRAM2.kext
+> TODO
 
 ## 安装教程
 
@@ -105,10 +84,10 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 
 - [tutorial](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/tutorial): 分享和教程
 - [success](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/success): 成功解决问题或成功案例
-- [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/clover): Clover 配置
+- [opencore](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/opencore): OpenCore 配置
 - [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/memory%20card): 内存相关
 - [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/graphics%20card): 显卡相关
-
+- [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/clover): Clover 配置 - **已切换 OpenCore，不再新增维护**
 ## 相同主板 EFI
 
 - https://github.com/bydavy/EFI-ASRock-Z390-Phantom-Gaming
