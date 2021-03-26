@@ -1,4 +1,4 @@
-# Mini ITX 4k 视频剪辑黑苹果 macOS 12 Big Sur EFI
+# Mini ITX 4k 视频剪辑黑苹果 macOS 11 Big Sur EFI
 
 Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | [OpenCL 独显测试报告](https://browser.geekbench.com/v4/compute/4634600)
 
@@ -27,19 +27,13 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] BIOS 版本
     - [x] 1.5
 - [x] macOS 版本
-    - [x] [10.15.5](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/47)
-    - [x] [10.15.4](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/41)
-    - [x] [10.15.3](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/34)
-    - [x] [10.15.2](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/33)
-    - [x] [10.15.1](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/23)
-    - [x] [10.15](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.15)
-    - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支)
+    - [x] [11.0](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/51) - OpenCore
+    - [x] 10.15.x (使用 [10.15](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.15) 分支) - Clover
+    - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支) - Clover
 - [x] 显卡
-    - [x] 单 4k 显示器（DisplayPort）
-    - [x] [双 4k 显示器](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36)（双 DisplayPort）
+    - [x] 单/[双](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36) 4k 显示器（DisplayPort）
     - [x] Intel UHD630 核显
     - [x] AMD RX580
-    - [x] AMD RX5700 XT [#30](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/30)
 - [x] 声卡(Realtek ALC1220)
     - [x] 主板后置
     - [x] 机箱前置
@@ -48,16 +42,9 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [x] 有线网卡
 - [x] 无线 WiFi
 - [x] 蓝牙
-    - [x] 耳机
-    - [x] Trackpad 2
-    - [x] Airdrop
     - [x] Handoff
+    - [ ] Airdrop (点击无反应)
 - [x] 所有 USB 插口
-
-### 完美未验证
-
-- [x] 雷电 3 Type-C [#43](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/43)
-- [x] 随航 Sidecar [#32](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/32)
 
 ## 安装教程
 
