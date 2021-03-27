@@ -5,17 +5,6 @@
 nvram.plist
 vendors/
 
-/EFI/APPLE/
 /EFI/*.txt
 
-/EFI/CLOVER/ACPI/origin
-/EFI/CLOVER/OEM
-/EFI/CLOVER/ROM
-/EFI/CLOVER/doc
-/EFI/CLOVER/misc
-
-._*.plist
-._*.aml
-._*.dsl
-._*.efi
-._*.kextvendors
+._*
