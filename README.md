@@ -71,11 +71,6 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
 - [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/memory%20card): 内存相关
 - [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/graphics%20card): 显卡相关
 - [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/clover): Clover 配置 - **已切换 OpenCore，不再新增维护**
-## 相同主板 EFI
-
-- https://github.com/bydavy/EFI-ASRock-Z390-Phantom-Gaming
-- https://github.com/kcunanan/Jared-PC/
-- https://github.com/befuture/EFI-ASRock-Z390-Phantom-Gaming
 
 ## 教科书版黑苹果教程
 
