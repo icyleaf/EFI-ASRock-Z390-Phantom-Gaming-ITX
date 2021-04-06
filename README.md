@@ -1,6 +1,6 @@
 # Mini ITX 4k 视频剪辑黑苹果 macOS 11 Big Sur EFI
 
-Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | [OpenCL 独显测试报告](https://browser.geekbench.com/v4/compute/4634600)
+Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | [OpenCL 独显测试报告](https://browser.geekbench.com/v4/compute/4634600)
 
 ## 装机清单
 
@@ -71,11 +71,6 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/14931592) | 
 - [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/memory%20card): 内存相关
 - [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/graphics%20card): 显卡相关
 - [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/clover): Clover 配置 - **已切换 OpenCore，不再新增维护**
-## 相同主板 EFI
-
-- https://github.com/bydavy/EFI-ASRock-Z390-Phantom-Gaming
-- https://github.com/kcunanan/Jared-PC/
-- https://github.com/befuture/EFI-ASRock-Z390-Phantom-Gaming
 
 ## 教科书版黑苹果教程
 
