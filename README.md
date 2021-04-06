@@ -43,7 +43,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
 - [x] 无线 WiFi
 - [x] 蓝牙
     - [x] Handoff
-    - [ ] Airdrop (点击无反应)
+    - [x] Airdrop
 - [x] 所有 USB 插口
 
 ## 安装教程
