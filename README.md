@@ -22,6 +22,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
 ## 兼容情况
 
 从 2021 年 3 月 25 开始升级使用 OpenCore 方案。
+
 ### 完美
 
 - [x] BIOS 版本
@@ -32,7 +33,6 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支) - Clover
 - [x] 显卡
     - [x] 单/[双](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36) 4k 显示器（DisplayPort）
-    - [x] Intel UHD630 核显
     - [x] AMD RX580
 - [x] 声卡(Realtek ALC1220)
     - [x] 主板后置
@@ -45,6 +45,10 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
     - [x] Handoff
     - [x] Airdrop
 - [x] 所有 USB 插口
+
+### 未知
+
+- Intel UHD630 核显 (没有时间测试)
 
 ## 安装教程
 
