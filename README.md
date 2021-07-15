@@ -84,4 +84,4 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [
 
 ## 我的其他 EFI
 
-- [ASUS 华硕 B150M A D3 MATX + QL3X + 核显 + HD7770](https://github.com/icyleaf/EFI-ASUS-B150M-A-D3-QL3X)
+- [ASUS 华硕 B150M A D3 MATX + QL3X + 核（独）显 + HD7770](https://github.com/icyleaf/EFI-ASUS-B150M-A-D3-QL3X)
