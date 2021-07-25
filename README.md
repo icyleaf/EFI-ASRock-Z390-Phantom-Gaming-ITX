@@ -1,6 +1,6 @@
 # Mini ITX 4k 视频剪辑黑苹果 macOS 11 Big Sur EFI
 
-Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | [OpenCL 独显测试报告](https://browser.geekbench.com/v4/compute/4634600)
+Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [OpenCL 独显测试报告](https://browser.geekbench.com/v5/compute/2877627)
 
 ## 装机清单
 
@@ -22,6 +22,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
 ## 兼容情况
 
 从 2021 年 3 月 25 开始升级使用 OpenCore 方案。
+
 ### 完美
 
 - [x] BIOS 版本
@@ -32,7 +33,6 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支) - Clover
 - [x] 显卡
     - [x] 单/[双](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36) 4k 显示器（DisplayPort）
-    - [x] Intel UHD630 核显
     - [x] AMD RX580
 - [x] 声卡(Realtek ALC1220)
     - [x] 主板后置
@@ -45,6 +45,10 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
     - [x] Handoff
     - [x] Airdrop
 - [x] 所有 USB 插口
+
+### 未知
+
+- Intel UHD630 核显 (没有时间测试)
 
 ## 安装教程
 
@@ -77,3 +81,7 @@ Geekbench 4 [CPU 测试报告](https://browser.geekbench.com/v4/cpu/16102413) | 
 - https://www.tonymacx86.com/threads/guide-asrock-z390-phantom-gaming-itx-ac-i9-9900k-rx-580.268992/
 - https://www.tonymacx86.com/threads/success-asrock-z390-phantom-gaming-itx-tb3-igpu-mojave-sff-build.277418/
 - https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/
+
+## 我的其他 EFI
+
+- [ASUS 华硕 B150M A D3 MATX + QL3X + 核（独）显 + HD7770](https://github.com/icyleaf/EFI-ASUS-B150M-A-D3-QL3X)
