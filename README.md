@@ -63,18 +63,26 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [
 
 请移步至[华擎 Z390 Gaming ITX 黑苹果安装教程](http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/)
 
+### 跨版本升级 OpenCore 秘笈
+
+- 下载你需要版本的 OpenCore
+- 下载支持第一步 OpenCore 版本的 OpenCore Configurator
+- 使用下载好的 OpenCore Configurator 打开 `config.plist` 并保存
+- 替换 OpenCore 必要的文件 `OpenCore-x.x.x-RELEASE/X64/EFI`
+- 使用对比软件对比官方演示文件 `Opencore/Docs/Sample.plist` 和 `EFI/EFI/config.plist` 
+
 ### 升级 macOS 系统
 
 争取尽我可能把升级步骤和注意事项记录下来提供给使用我的 EFI 的小伙伴们，请移步到 [upgrade](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Aupgrade) 标签查看所有升级说明。
 
 ## 问题索引
 
-- [tutorial](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/tutorial): 分享和教程
-- [success](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/success): 成功解决问题或成功案例
-- [opencore](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/opencore): OpenCore 配置
-- [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/memory%20card): 内存相关
-- [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/graphics%20card): 显卡相关
-- [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/clover): Clover 配置 - **已切换 OpenCore，不再新增维护**
+- [tutorial](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Atutorial): 分享和教程
+- [success](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Asuccess): 成功解决问题或成功案例
+- [opencore](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Aopencore): OpenCore 配置
+- [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Amemory%20card): 内存相关
+- [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Agraphics%20card): 显卡相关
+- [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Aclover): Clover 配置 - **已切换 OpenCore，不再新增维护**
 
 ## 教科书版黑苹果教程
 
