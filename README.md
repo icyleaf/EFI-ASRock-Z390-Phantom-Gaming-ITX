@@ -1,6 +1,6 @@
-# Mini ITX 4k 视频剪辑黑苹果 macOS 11 Big Sur EFI
+# Mini ITX 4k 视频剪辑黑苹果 macOS 12 Monterey EFI
 
-Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [OpenCL 独显测试报告](https://browser.geekbench.com/v5/compute/2877627)
+Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | [OpenCL 独显测试报告](https://browser.geekbench.com/v5/compute/2877627)
 
 ## 装机清单
 
@@ -28,7 +28,8 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [
 - [x] BIOS 版本
     - [x] 1.5
 - [x] macOS 版本
-    - [x] [11.0](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/51) - OpenCore
+    - [x] [12.2](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/59) - OpenCore
+    - [x] 11.x (使用 [11.6](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/11.6) 分支) - OpenCore
     - [x] 10.15.x (使用 [10.15](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.15) 分支) - Clover
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支) - Clover
 - [x] 显卡
@@ -48,7 +49,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [
 
 ### 未知
 
-- Intel UHD630 核显 (没有时间测试)
+- Intel UHD630 核显 (使用独显后没测试)
 
 ## 安装教程
 
@@ -69,7 +70,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [
 - 下载支持第一步 OpenCore 版本的 OpenCore Configurator
 - 使用下载好的 OpenCore Configurator 打开 `config.plist` 并保存
 - 替换 OpenCore 必要的文件 `OpenCore-x.x.x-RELEASE/X64/EFI`
-- 使用对比软件对比官方演示文件 `Opencore/Docs/Sample.plist` 和 `EFI/EFI/config.plist` 
+- 使用对比软件对比官方演示文件 `Opencore/Docs/Sample.plist` 和 `EFI/EFI/config.plist`
 
 ### 升级 macOS 系统
 
