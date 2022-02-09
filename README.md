@@ -69,12 +69,12 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/8065088) | [
 
 ## 问题索引
 
-- [tutorial](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/tutorial): 分享和教程
-- [success](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/success): 成功解决问题或成功案例
-- [opencore](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/opencore): OpenCore 配置
-- [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/memory%20card): 内存相关
-- [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/graphics%20card): 显卡相关
-- [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/labels/clover): Clover 配置 - **已切换 OpenCore，不再新增维护**
+- [tutorial](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Atutorial): 分享和教程
+- [success](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Asuccess): 成功解决问题或成功案例
+- [opencore](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Aopencore): OpenCore 配置
+- [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Amemory%20card): 内存相关
+- [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Agraphics%20card): 显卡相关
+- [colver](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Aclover): Clover 配置 - **已切换 OpenCore，不再新增维护**
 
 ## 教科书版黑苹果教程
 
