@@ -27,6 +27,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 ### 完美
 
 - [x] BIOS 版本
+    - [x] 4.40
     - [x] 1.5
 - [x] macOS 版本
     - [x] [12.2](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/59) - OpenCore
