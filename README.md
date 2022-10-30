@@ -82,8 +82,8 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 - [tutorial](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Atutorial): 分享和教程
 - [success](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Asuccess): 成功解决问题或成功案例
 - [opencore](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Aopencore): OpenCore 配置
-- [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Amemory%20card): 内存相关
-- [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Agraphics%20card): 显卡相关
+- [memory card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3A%22memory+card%22): 内存相关
+- [graphics card](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3A%22graphics+card%22): 显卡相关
 - [clover](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues?q=label%3Aclover): Clover 配置 - **已切换 OpenCore，不再新增维护**
 
 ## 教科书版黑苹果教程
