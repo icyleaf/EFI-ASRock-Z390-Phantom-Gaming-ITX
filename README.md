@@ -65,7 +65,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 
 ### 安装黑苹果
 
-请移步至[华擎 Z390 Gaming ITX 黑苹果安装教程](http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/)
+请移步至[华擎 Z390 Gaming ITX 黑苹果安装教程](http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/) (早期 Clover 版本）
 
 ### 跨版本升级 OpenCore 秘笈
 
