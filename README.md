@@ -69,11 +69,9 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 
 ### 跨版本升级 OpenCore 秘笈
 
-- 下载你需要版本的 OpenCore
-- 下载支持第一步 OpenCore 版本的 OpenCore Configurator
-- 使用下载好的 OpenCore Configurator 打开 `config.plist` 并保存
-- 替换 OpenCore 必要的文件 `OpenCore-x.x.x-RELEASE/X64/EFI`
-- 使用对比软件对比官方演示文件 `Opencore/Docs/Sample.plist` 和 `EFI/EFI/config.plist`
+- 下载 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
+- OCAuxiliaryTools 挂载 `config.plist` 并同步最新版本的 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) 和 Kexts
+- 注意保存的变更项，检查无误后保存
 
 ### 升级 macOS 系统
 
