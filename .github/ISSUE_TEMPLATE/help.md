@@ -19,12 +19,12 @@ assignees: ''
 
 **软件信息**
 
-- Clover 版本：
+- OpenCore 版本：
 - 相关 Kexts 和版本：
 
-** Clover 配置**
+** OpenCore 配置**
 
-有必要可以上传 Clover 的配置文件
+有必要可以上传 OpenCore 的配置文件
 
 **截图**
 
