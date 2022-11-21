@@ -1,4 +1,4 @@
-# Mini ITX 4k 视频剪辑黑苹果 macOS 12 Monterey EFI
+# Mini ITX 4k 视频剪辑黑苹果 macOS 13 Ventura EFI
 
 Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | [OpenCL 独显测试报告](https://browser.geekbench.com/v5/compute/5789051)
 
@@ -10,7 +10,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 | 主板 | 华擎 Z390 Phantom Gaming itx/ac |  |
 | 散热器 | 九州风神 船长 240 EX White RGB |  |
 | 内存 | 海盗船 Vengeance LPX DDR4 3000 16G x 2 |  |
-| 硬盘 | 西数 Black SN750 1T<br />致钛 PC005 Active 1T<br />镁光 CT500MX 500G<br />东芝 DT01ACA300 3T | 三星 970 EVO 250G 使用佳翼 i9-GTR 做 U 盘 |
+| 硬盘 | 西数 Black SN750 1T<br />致钛 PC005 Active 1T<br />镁光 CT500MX 500G<br />致钛 PC005 Active 256G<br />东芝 DT01ACA300 3T |  |
 | 显卡 | 迪兰RX 5600xt 6G X 战神 | 新矿卡 |
 | 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡[替换主板原有模块 M.2 Key E 口](https://icyleaf.com/uploads/2019/03/28/install-boardcom-module-to-motherboard.jpg) |
 | 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)DisplayPort 接入 |
@@ -30,12 +30,13 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
     - [x] 4.40
     - [x] 1.5
 - [x] macOS 版本
-    - [x] [12.2](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/59) - OpenCore
+    - [x] [13.0.1](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/65) - OpenCore
+    - [x] 12.x (使用 [12.6](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/12.6) 分支) - OpenCore
     - [x] 11.x (使用 [11.6](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/11.6) 分支) - OpenCore
     - [x] 10.15.x (使用 [10.15](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.15) 分支) - Clover
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支) - Clover
 - [x] 显卡
-    - [x] 单/[双](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36) 4k 显示器（DisplayPort）
+    - [x] 单/[双](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36)/[三](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/65#issuecomment-1321711241) 4k 显示器（DisplayPort）
     - [x] [AMD RX5600XT](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/66)
     - [x] [AMD RX580](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/67) - macOS Monterey 12
 - [x] 声卡(Realtek ALC1220)
