@@ -8,7 +8,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 | --- | --- | --- |
 | CPU | 英特尔 i7 9700k |  |
 | 主板 | 华擎 Z390 Phantom Gaming itx/ac |  |
-| 散热器 | 九州风神 船长 240 EX White RGB |  |
+| 散热器 | 酷里奥屠龙 240A | 九州风神 船长 240 EX White RGB 过保后水泵头有问题  |
 | 内存 | 海盗船 Vengeance LPX DDR4 3000 16G x 2 |  |
 | 硬盘 | 西数 Black SN750 1T<br />致钛 PC005 Active 1T<br />镁光 CT500MX 500G<br />致钛 PC005 Active 256G<br />东芝 DT01ACA300 3T |  |
 | 显卡 | 迪兰RX 5600xt 6G X 战神 | 新矿卡 |
