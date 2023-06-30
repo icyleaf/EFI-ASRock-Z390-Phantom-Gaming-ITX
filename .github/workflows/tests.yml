@@ -1,4 +1,4 @@
-name: tests
+name: vaildate
 on:
   push:
     branches:
@@ -12,7 +12,7 @@ jobs:
 
       - uses: brokeyourbike/ocvalidate-action@v0.3
         with:
-          opencore-version: '0.8.6'
+          opencore-version: '0.9.3'
           release: true
 
       - run: ocvalidate ./EFI/OC/config.plist
