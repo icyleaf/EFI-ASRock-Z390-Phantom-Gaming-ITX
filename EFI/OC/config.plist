@@ -228,6 +228,19 @@
         <dict>
             <key>Add</key>
             <dict>
+                <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+                <dict>
+                    <key>@0,name</key>
+                    <string>ATY,Adder</string>
+                    <key>@1,name</key>
+                    <string>ATY,Adder</string>
+                    <key>@2,name</key>
+                    <string>ATY,Adder</string>
+                    <key>@3,name</key>
+                    <string>ATY,Adder</string>
+                    <key>unfairgva</key>
+                    <data>AQAAAA==</data>
+                </dict>
                 <key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
                 <dict>
                     <key>layout-id</key>
