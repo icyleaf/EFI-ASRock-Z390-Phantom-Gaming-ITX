@@ -16,7 +16,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 | 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)DisplayPort 接入 |
 | 机箱 | 追风者 215P ITX 侧透 RGB |  |
 | 麦克风 | fifine K690 | 免驱，后置 USB 都可用 |
-| 电源 | 讯景 XTR550 | |
+| 电源 | 利民 Thermalright 850W TR-TG850 ATX3.0 | 升级 5600XT 后讯景 XTR550 有点勉强 |
 
 更多说明请看[攒了一台 4K 视频剪辑黑苹果](http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/)。
 
