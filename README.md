@@ -64,6 +64,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 
 - 高级（Advanced） > 芯片配置（Chipset Configuration） > VT-d -> Disabled
 - 高级（Advanced） > USB 配置（USB Configuration） > XHCI Hand-off -> Enabled
+- 高级（Advanced） > 存储配置（Storage Configuration） > SATA Mode -> AHCI
 
 ### 安装黑苹果
 
