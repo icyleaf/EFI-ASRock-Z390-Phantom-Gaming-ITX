@@ -409,6 +409,60 @@
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>AirportBrcmFixup.kext</string>
+                    <key>Comment</key>
+                    <string>V2.1.8</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/AirportBrcmFixup</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcm4360_Injector.kext</string>
+                    <key>Comment</key>
+                    <string>V1.0</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string></string>
+                    <key>MaxKernel</key>
+                    <string>19.99.99</string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcmNIC_Injector.kext</string>
+                    <key>Comment</key>
+                    <string>V1.0</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string></string>
+                    <key>MaxKernel</key>
+                    <string>22.99.99</string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
             </array>
             <key>Block</key>
             <array>
@@ -850,7 +904,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 debug=0x100 agdpmod=pikera -v</string>
+                    <string>keepsyms=1 debug=0x100 agdpmod=pikera -v -brcmfxbeta brcmfx-country=HK</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
