@@ -246,7 +246,7 @@
                 <key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
                 <dict>
                     <key>layout-id</key>
-                    <data>CwAAAA==</data>
+                    <data>FgAAAA==</data>
                 </dict>
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
@@ -307,7 +307,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.9</string>
+                    <string>V1.9.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
