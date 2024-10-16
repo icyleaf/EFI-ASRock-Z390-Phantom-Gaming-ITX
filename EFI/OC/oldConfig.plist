@@ -782,9 +782,9 @@
             <key>Debug</key>
             <dict>
                 <key>AppleDebug</key>
-                <false/>
+                <true/>
                 <key>ApplePanic</key>
-                <false/>
+                <true/>
                 <key>DisableWatchDog</key>
                 <true/>
                 <key>DisplayDelay</key>
@@ -796,7 +796,7 @@
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
-                <integer>3</integer>
+                <integer>67</integer>
             </dict>
             <key>Entries</key>
             <array>
@@ -970,7 +970,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>CHANGEME</string>
+                <string>C02010401GULNV9JC</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -984,9 +984,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,1</string>
                 <key>SystemSerialNumber</key>
-                <string>CHANGEME</string>
+                <string>C02CD02QJV3Q</string>
                 <key>SystemUUID</key>
-                <string>CHANGEME</string>
+                <string>C38AF179-0443-4740-9BD7-3460063F30DF</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
