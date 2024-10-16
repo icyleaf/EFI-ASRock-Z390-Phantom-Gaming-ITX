@@ -42,7 +42,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-TbtOnPch_PINI.aml</string>
                 </dict>
@@ -232,16 +232,8 @@
             <dict>
                 <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
                 <dict>
-                    <key>@0,name</key>
-                    <string>ATY,Adder</string>
-                    <key>@1,name</key>
-                    <string>ATY,Adder</string>
-                    <key>@2,name</key>
-                    <string>ATY,Adder</string>
-                    <key>@3,name</key>
-                    <string>ATY,Adder</string>
-                    <key>unfairgva</key>
-                    <data>AQAAAA==</data>
+                    <key>CFG,CFG_USE_AGDC</key>
+                    <data>AA==</data>
                 </dict>
                 <key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
                 <dict>
@@ -755,7 +747,7 @@
                 <key>HibernateSkipsPicker</key>
                 <false/>
                 <key>HideAuxiliary</key>
-                <false/>
+                <true/>
                 <key>InstanceIdentifier</key>
                 <string></string>
                 <key>LauncherOption</key>
@@ -904,7 +896,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 debug=0x100 agdpmod=pikera -v -brcmfxbeta brcmfx-country=HK</string>
+                    <string>keepsyms=1 swd_panic=1 debug=0x100 agdpmod=pikera -brcmfxbeta brcmfx-country=HK</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
