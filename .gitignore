@@ -10,3 +10,6 @@ vendors/
 /EFI/OC/oldConfig.plist
 
 ._*
+
+# opencore log
+opencore-*.txt
