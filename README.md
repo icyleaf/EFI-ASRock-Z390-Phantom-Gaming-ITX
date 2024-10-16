@@ -13,7 +13,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 | 硬盘 | 西数 Black SN750 1T<br />致钛 PC005 Active 1T<br />镁光 CT500MX 500G<br />致钛 PC005 Active 256G<br />东芝 DT01ACA300 3T |  |
 | 显卡 | 迪兰RX 5600xt 6G X 战神 | 新矿卡 |
 | 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡[替换主板原有模块 M.2 Key E 口](https://icyleaf.com/uploads/2019/03/28/install-boardcom-module-to-motherboard.jpg) |
-| 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)DisplayPort 接入 |
+| 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)HDMI 接入 |
 | 机箱 | 追风者 215P ITX 侧透 RGB |  |
 | 麦克风 | fifine K690<br />Comica VM10 Pro | 免驱，后置 USB 都可用 |
 | 电源 | 利民 Thermalright 850W TR-TG850 ATX3.0 | 升级 5600XT 后讯景 XTR550 有点勉强 |
@@ -36,7 +36,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
     - [x] 10.15.x (使用 [10.15](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.15) 分支) - Clover
     - [x] 10.14.5 (使用 [10.14](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/10.14) 分支) - Clover
 - [x] 显卡
-    - [x] 单/[双](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36)/[三](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/65#issuecomment-1321711241) 4k 显示器（DisplayPort）
+    - [x] 单/[双](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/36)/[三](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/65#issuecomment-1321711241) 4k 显示器（DisplayPort+HDMI）
     - [x] [AMD RX5600XT](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/66)
     - [x] [AMD RX580](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/67) - macOS Monterey 12
 - [x] 声卡(Realtek ALC1220)
