@@ -7,5 +7,6 @@ vendors/
 
 /EFI/*.txt
 /EFI/BOOT/.*
+/EFI/OC/oldConfig.plist
 
 ._*
