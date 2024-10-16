@@ -63,13 +63,19 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 
 开机 F2 进入 BIOS 再按 F6 切换高级模式，至少需要做如下修改具体情况还需要看硬件情况：
 
-- 高级（Advanced） > 芯片配置（Chipset Configuration） > VT-d -> Disabled
-- 高级（Advanced） > USB 配置（USB Configuration） > XHCI Hand-off -> Enabled
-- 高级（Advanced） > 存储配置（Storage Configuration） > SATA Mode -> AHCI
+菜单 | 条目 | 设置 | 建议值 | 备注
+---|---|---|---|---
+高级（Advanced）| 芯片配置（Chipset Configuration） | VT-d | Disabled | 关联 `DisableIoMapper`
+| | | Share Mamory | 64M ~ 128M | 也叫 DVMT 太高可能会影响睡眠唤醒
+高级（Advanced）| 存储配置（Storage Configuration）| SATA Mode | AHCI
+高级（Advanced）|  USB 配置（USB Configuration）| XHCI Hand-off | Enabled | 插入 USB 设备不被卡
+安全设置（Security） | Secure Boot | | Disabled
+安全设置（Security） | Fast Boot | | Disabled
+安全设置（Security） | CSM | | Disabled
 
 ### 安装黑苹果
 
-请移步至[华擎 Z390 Gaming ITX 黑苹果安装教程](http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/) (早期 Clover 版本）
+使用 Clover 版本请移步至[华擎 Z390 Gaming ITX 黑苹果安装教程](http://icyleaf.com/2019/03/asrock-z390-gaming-itx-install-hackintosh-tutorial/)
 
 ### 跨版本升级 OpenCore 秘笈
 
