@@ -51,7 +51,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
     - [x] Handoff
     - [x] Airdrop
 - [x] 所有 USB 插口
-    - [x] 前置 USB 外接麦克风无法识别
+    - [x] 前/后置 USB 外接麦克风
     - [ ] 多麦克风聚合设备后有一路输入会爆音
 
 ### 未知
