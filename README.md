@@ -1,4 +1,4 @@
-# Mini ITX 4k 视频剪辑黑苹果 macOS 13 Ventura EFI
+# Mini ITX 4k 视频剪辑黑苹果 macOS 15 Sequoia EFI
 
 Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | [OpenCL 独显测试报告](https://browser.geekbench.com/v5/compute/5789051)
 
@@ -30,6 +30,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
     - [x] 4.40
     - [x] 1.5
 - [x] macOS 版本
+    - [x] [15.x](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/79) - OpenCore
     - [x] [13.x](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/issues/65) - OpenCore
     - [x] 12.x (使用 [12.6](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/12.6) 分支) - OpenCore
     - [x] 11.x (使用 [11.6](https://github.com/icyleaf/EFI-ASRock-Z390-Phantom-Gaming-ITX/tree/11.6) 分支) - OpenCore
@@ -45,7 +46,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
     - [x] DisplayPort 声音输出
 - [x] 睡眠/唤醒
 - [x] 有线网卡
-- [x] 无线 WiFi
+- [x] 无线 WiFi (依赖 OpenCore-Legacy-Patcher)
 - [x] 蓝牙
     - [x] Handoff
     - [x] Airdrop
@@ -67,6 +68,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 ---|---|---|---|---
 高级（Advanced）| 芯片配置（Chipset Configuration） | VT-d | Disabled | 关联 `DisableIoMapper`
 | | | Share Mamory | 64M ~ 128M | 也叫 DVMT 太高可能会影响睡眠唤醒
+高级（Advanced）| 芯片配置（Chipset Configuration）| Above 4G Decoding | Enabled | 独显唤醒必备
 高级（Advanced）| 存储配置（Storage Configuration）| SATA Mode | AHCI
 高级（Advanced）|  USB 配置（USB Configuration）| XHCI Hand-off | Enabled | 插入 USB 设备不被卡
 安全设置（Security） | Secure Boot | | Disabled
