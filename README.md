@@ -67,8 +67,7 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 菜单 | 条目 | 设置 | 建议值 | 备注
 ---|---|---|---|---
 高级（Advanced）| 芯片配置（Chipset Configuration） | VT-d | Disabled | 关联 `DisableIoMapper`
-| | | Share Mamory | 64M ~ 128M | 也叫 DVMT 太高可能会影响睡眠唤醒
-高级（Advanced）| 芯片配置（Chipset Configuration）| Above 4G Decoding | Enabled | 独显唤醒必备
+| | | Share Mamory | 64M ~ 128M | 也叫 DVMT 
 高级（Advanced）| 存储配置（Storage Configuration）| SATA Mode | AHCI
 高级（Advanced）|  USB 配置（USB Configuration）| XHCI Hand-off | Enabled | 插入 USB 设备不被卡
 安全设置（Security） | Secure Boot | | Disabled
