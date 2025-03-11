@@ -15,4 +15,6 @@ jobs:
           opencore-version: '1.0.4'
           release: true
 
-      - run: ocvalidate ./EFI/OC/config.plist
+      - run: |
+          sed -i 's/CHANGEME//g' ./EFI/OC/config.plist
+          ocvalidate ./EFI/OC/config.plist
